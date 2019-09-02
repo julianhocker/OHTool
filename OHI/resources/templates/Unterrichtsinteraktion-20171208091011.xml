@@ -1942,6 +1942,7 @@ Klick auf „Bearbeiten“, um den Quelltext der Template anzusehen.
 |sort = Zeilennummer, Erstellungszeitpunkt
 |order = asc, asc
 |format = table
+|limit=500	     
 }}
 
 = Geschichten =
